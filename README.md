@@ -1,6 +1,6 @@
 ## Hi there 👋
 # Trippy_D3v 🌀
-*Future Entry-Level Developer | Creative Engineer in the Making*
+*Future JR Developer | Creative Engineer in the Making*
 
 ---
 
