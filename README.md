@@ -1,23 +1,28 @@
-## Hi there 👋
-# Trippy_D3v 🌀
-*Future JR Developer | Creative Engineer in the Making*
+👋 What’s Good
+Trippy_D3v 🌀
 
----
+Future Blockchain Engineer | Systems Builder | Independent Problem Solver
 
-## 🌐 Who I Am
-I’m an entry-level developer with a bold vision:  
-to level up into an elite engineer by 2026—building systems that power startups, secure critical infrastructure, and spark creative tech innovation.  
+🌐 Who I Am
 
-I code with a mix of precision and flair—clean engineering discipline fused with a **trippy edge** that makes projects not only work hard but look and feel next-level.
+Building toward mastery in blockchain engineering, low-level systems, and secure software—one real project at a time.
+Long game only:
+Python. Linux. Go. C. Cryptography. Distributed Systems.
 
----
+This GitHub is my personal engineering library—no throwaways, just tools, systems, and work that compounds.
 
-## 💡 What I Build
-- **iOS Apps** – Sleek, smooth, and user-focused  
-- **Automation Tools** – Scripts that save hours, if not days  
-- **Backend Systems** – Scalable, reliable, and future-ready  
+Not here for hype.
+Here for skills. 'Quickly, to the laboratory!' #DextersLaboratory 🧪
 
-Every line of code I write is meant to perform, scale, and inspire.
+
+💡 What I Build
+
+Automation & Systems Tools
+
+Backend Infrastructure
+
+Blockchain & Security Projects
+
 
 ---
 
@@ -38,14 +43,6 @@ Every line of code I write is meant to perform, scale, and inspire.
 </p>
 
 ---
+ 
 
-## 📈 Professional Goal
-By 2026, I aim to operate at **elite engineer level**—  
-building visionary systems that push boundaries and raise the bar in performance, design, and impact.
-
----
-
-*Let’s build something legendary.*
-
-*Let’s build something legendary.*
 
