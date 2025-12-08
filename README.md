@@ -7,12 +7,11 @@ Future Blockchain Engineer | Systems Builder | Independent Problem Solver
 
 Building toward mastery in blockchain engineering, low-level systems, and secure software—one real project at a time.
 Long game only:
-Python. Linux. Go. C. Cryptography. Distributed Systems.
+Python| Linux| Go| C| Cryptography| Distributed Systems|
 
-This GitHub is my personal engineering library—no throwaways, just tools, systems, and work that compounds.
-
+This GitHub is my personal engineering library no throwaways, just tools, systems, and work that compounds.
 Not here for hype.
-Here for skills. 'Quickly, to the laboratory!' #DextersLaboratory 🧪
+Here for skills.  #'Quickly, to the laboratory!' #DextersLaboratory 🧪 LMAO!!!
 
 
 💡 What I Build
