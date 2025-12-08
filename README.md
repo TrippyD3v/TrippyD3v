@@ -33,16 +33,3 @@ Blockchain & Security Projects
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=trippydev&show_icons=true&theme=radical" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=trippydev&theme=radical" />
-</p>
-
----
- 
-
-
