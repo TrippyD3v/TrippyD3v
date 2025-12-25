@@ -57,8 +57,6 @@ this is what I’m *actually* working on.
 
 ---
 
-<sub>⚙️ Portions of this README were refined with the help of ChatGPT — the work, commits, and learning are mine.</sub>
+⚙️ Portions of this README were refined with the help of ChatGPT — the work, commits, and learning are mine *FYI😂
 
-> *“The problem is not the problem. The problem is your attitude about the problem.”*  
-> — **:contentReference[oaicite:0]{index=0}**
-
+ *“The problem is not the problem. The problem is your attitude about the problem.”*  
