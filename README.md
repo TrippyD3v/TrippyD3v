@@ -1,34 +1,64 @@
-👋 What’s Good
-Trippy_D3v 🌀
+👋 What’s Good  
+**Trippy_D3v 🌀**
 
-Future Blockchain Engineer | Systems Builder | Independent Problem Solver
+---
 
-🌐 Who I Am
+## 🌐 Who I Am
 
-Building toward mastery in blockchain engineering, low-level systems, and secure software—one real project at a time.
-Long game only:
-Python| Linux| Go| C| Cryptography| Distributed Systems|
+I’m building toward mastery in **backend systems, security-minded software, and distributed systems** — one real project at a time.  
+Long game only.
 
-This GitHub is my personal engineering library no throwaways, just tools, systems, and work that compounds.
-Not here for hype.
-Here for skills.  #'Quickly, to the laboratory!' #DextersLaboratory 🧪 LMAO!!!
+**Core lanes:**  
+Python | Linux | Go | C | Cryptography | Distributed Systems
 
+This GitHub is my **Personal Engineering Archive**.  
+Not throwaways — but tools, systems, experiments, and lessons that *hopefully* compound over time…  
+*“supposedly”* 😂
 
-💡 What I Build
+> “Quickly, to the laboratory!” 🧪  
+> *(Dexter was really just running a solo R&D shop)*
 
-Automation & Systems Tools
+---
 
-Backend Infrastructure
+## 💡 What I Build
 
-Blockchain & Security Projects
+- **Automation & Systems Tools**  
+  Scripts, CLIs, and utilities that reduce friction and enforce correctness.
 
+- **Backend Infrastructure**  
+  APIs, services, and data flows built with reliability and clarity in mind.
+
+- **Security & Blockchain Experiments**  
+  Learning by breaking shit!😂 
+
+Each repo is a snapshot in time:  
+*what I was solving, how I thought about it, and what I learned.*
 
 ---
 
 ## 🔧 Core Skills
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📦 How to Read This GitHub
+
+- Repos = **receipts**, not demos  
+- READMEs explain **why**, not just how  
+- Progress > polish (until it’s time to polish) 
+
+If you’re a recruiter or engineer:  
+this is what I’m *actually* working on.
+
+---
+
+<sub>⚙️ Portions of this README were refined with the help of ChatGPT — the work, commits, and learning are mine.</sub>
+
+> *“The problem is not the problem. The problem is your attitude about the problem.”*  
+> — **:contentReference[oaicite:0]{index=0}**
 
