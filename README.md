@@ -1,4 +1,7 @@
+this github is my workspace.
 
-⚙️ Portions of this README were refined with the help of ChatGPT — the work, commits, and learning are mine *FYI😂
+nothing is polished. 🧪
+scripts, experiments, notes, and broken things live here.
 
- *“The problem is not the problem. The problem is your attitude about the problem.”*  
+“i’m not a monster. i’m just ahead of the curve.”
+“do i really look like a guy with a plan?”
