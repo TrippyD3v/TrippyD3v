@@ -92,8 +92,10 @@ Same proven modular layout:
 
 - Session identifier: TICKETOPS-SESSION-20260604-DAY2-CLI-V0.1
 - Core idea transferred: a practical CLI that turns raw work chaos into prioritized, actionable findings with recommended next steps + historical pattern matching.
-- Skeleton was minimal; we built full runnable modules + data + tests (like we did expanding sentinel from phase2 skeleton).
+- Skeleton was minimal (browser sessions); we built full runnable modules + data + tests (exactly like the sentinel-phase2 expansion).
 - Added Grok-native first (.grok/skills, AGENTS.md, config.toml) while keeping full Claude.md + compat for .claude/
+
+This repo was created locally from the claude-work architecture and pushed as the new `grok-work-project` (TrippyD3v account, alongside sentinel-security-auditor).
 
 ---
 
