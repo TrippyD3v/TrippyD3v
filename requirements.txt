@@ -1,0 +1,3 @@
+# GrokWork / TicketOps dependencies
+# Core is stdlib for v0.1 (data transfer from skeleton). Add as needed.
+# requests  # for future live ticket system connectors (Jira, Linear, etc)

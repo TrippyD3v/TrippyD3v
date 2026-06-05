@@ -1,0 +1,11 @@
+# GrokWork project-scoped config (Grok primary)
+# See ~/.grok/docs/user-guide/05-configuration.md and 07-mcp-servers.md
+
+[project]
+name = "grok-work"
+description = "TicketOps / knowledge work signal reducer - Grok native, Claude compatible"
+
+# Example: add local MCP or skills here later
+# [mcp_servers.local-ticketing]
+# command = "python"
+# args = ["-m", "mcp_ticketing_server"]
