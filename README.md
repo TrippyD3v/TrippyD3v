@@ -4,6 +4,13 @@ GrokWork is a learning-driven local system focused on **knowledge work + ticket 
 
 **Repository:** https://github.com/TrippyD3v/grok-work-project (alongside [sentinel-security-auditor](https://github.com/TrippyD3v/sentinel-security-auditor))
 
+Clone:
+```bash
+git clone https://github.com/TrippyD3v/grok-work-project.git
+cd grok-work-project
+python3 grok_work.py --scan
+```
+
 Core question:
 **What work actually matters right now?**
 
