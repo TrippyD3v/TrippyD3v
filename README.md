@@ -2,13 +2,21 @@
 
 GrokWork is a learning-driven local system focused on **knowledge work + ticket operations**.
 
-**Repository:** https://github.com/TrippyD3v/grok-work-project (alongside [sentinel-security-auditor](https://github.com/TrippyD3v/sentinel-security-auditor))
+**Repository:** https://github.com/TrippyD3v/grok-work-project
 
-Clone:
+This lives as a project "folder" inside the main workspace at https://github.com/TrippyD3v/TrippyD3v (alongside the renamed sentinel under TrippyDev/sentinel).
+
+Clone (standalone):
 ```bash
 git clone https://github.com/TrippyD3v/grok-work-project.git
 cd grok-work-project
 python3 grok_work.py --scan
+```
+
+Or as part of workspace:
+```bash
+git clone https://github.com/TrippyD3v/TrippyD3v.git
+cd TrippyD3v/projects/grok-work   # or however organized in the workspace
 ```
 
 Core question:
@@ -99,10 +107,10 @@ Same proven modular layout:
 
 - Session identifier: TICKETOPS-SESSION-20260604-DAY2-CLI-V0.1
 - Core idea transferred: a practical CLI that turns raw work chaos into prioritized, actionable findings with recommended next steps + historical pattern matching.
-- Skeleton was minimal (browser sessions); we built full runnable modules + data + tests (exactly like the sentinel-phase2 expansion).
+- Skeleton was minimal (browser sessions); we built full runnable modules + data + tests (exactly like the sentinel expansion).
 - Added Grok-native first (.grok/skills, AGENTS.md, config.toml) while keeping full Claude.md + compat for .claude/
 
-This repo was created locally from the claude-work architecture and pushed as the new `grok-work-project` (TrippyD3v account, alongside sentinel-security-auditor).
+This repo was created locally from the claude-work architecture and pushed as the new `grok-work-project` (TrippyD3v account, as a project folder under the TrippyD3v/TrippyD3v workspace, alongside the renamed TrippyDev/sentinel).
 
 ---
 

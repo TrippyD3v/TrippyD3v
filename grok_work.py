@@ -6,7 +6,7 @@ A learning-driven local work signal reducer.
 Core question: What work actually matters right now?
 
 Tuned from claude-work skeleton sessions (TICKETOPS-SESSION-20260604-DAY2-CLI-V0.1)
-+ patterns proven in sentinel-phase2 (modular scanners, correlators, historical/offline KB,
++ patterns proven in sentinel (modular scanners, correlators, historical/offline KB,
   clean reporter, minimal deps, actionable output only).
 
 Grok primary. Claude compatible via .claude/ + Claude.md.
