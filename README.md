@@ -5,7 +5,7 @@ scripts, experiments, notes, and broken things live here.
 
 ## Projects (organized as folders)
 
-- **grok-work/** — TicketOps / knowledge work signal reducer. Grok-primary CLI. https://github.com/TrippyD3v/grok-work-project
+- **grok-work/** — TicketOps / knowledge work signal reducer. Grok-primary CLI. Full source now lives directly in this repo at `projects/grok-work/` (previously standalone at grok-work-project; that repo holds the pre-merge history).
 - **sentinel/** — Local security auditor (CVEs + historical attacks + GitHub Actions / AI prompt injection defense). https://github.com/TrippyDev/sentinel
 
 See subfolders for pointers and local notes.

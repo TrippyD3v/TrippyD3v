@@ -2,21 +2,20 @@
 
 GrokWork is a learning-driven local system focused on **knowledge work + ticket operations**.
 
-**Repository:** https://github.com/TrippyD3v/grok-work-project
+**Repository (source of truth):** https://github.com/TrippyD3v/TrippyD3v (inside `projects/grok-work/`)
 
-This lives as a project "folder" inside the main workspace at https://github.com/TrippyD3v/TrippyD3v (alongside the renamed sentinel under TrippyDev/sentinel).
+This project was originally developed as a standalone repo (https://github.com/TrippyD3v/grok-work-project) and later imported into the TrippyD3v monorepo/workspace via `git subtree`. The old `grok-work-project` repo preserves the pre-integration history.
 
-Clone (standalone):
+Primary clone (includes grok-work + other projects):
 ```bash
-git clone https://github.com/TrippyD3v/grok-work-project.git
-cd grok-work-project
+git clone https://github.com/TrippyD3v/TrippyD3v.git
+cd TrippyD3v/projects/grok-work
 python3 grok_work.py --scan
 ```
 
-Or as part of workspace:
+Standalone history (pre-monorepo):
 ```bash
-git clone https://github.com/TrippyD3v/TrippyD3v.git
-cd TrippyD3v/projects/grok-work   # or however organized in the workspace
+git clone https://github.com/TrippyD3v/grok-work-project.git
 ```
 
 Core question:
@@ -71,7 +70,8 @@ mode: learning
 ## How to Run
 
 ```bash
-cd /home/ghostnode/projects/grok-work
+# After cloning the workspace
+cd TrippyD3v/projects/grok-work
 
 # Basic curated tickets + correlation
 python grok_work.py
@@ -82,6 +82,8 @@ python grok_work.py --scan
 # Via CLI module
 python -m cli.main --scan
 ```
+
+(If using the old standalone checkout, adjust the cd path accordingly.)
 
 ---
 
@@ -110,7 +112,7 @@ Same proven modular layout:
 - Skeleton was minimal (browser sessions); we built full runnable modules + data + tests (exactly like the sentinel expansion).
 - Added Grok-native first (.grok/skills, AGENTS.md, config.toml) while keeping full Claude.md + compat for .claude/
 
-This repo was created locally from the claude-work architecture and pushed as the new `grok-work-project` (TrippyD3v account, as a project folder under the TrippyD3v/TrippyD3v workspace, alongside the renamed TrippyDev/sentinel).
+This repo was created locally from the claude-work architecture and pushed as the new `grok-work-project`. It was later integrated (full source + history) into the main workspace monorepo at https://github.com/TrippyD3v/TrippyD3v under `projects/grok-work/` using git subtree. The original grok-work-project repo remains as the historical record of the standalone phase.
 
 ---
 
