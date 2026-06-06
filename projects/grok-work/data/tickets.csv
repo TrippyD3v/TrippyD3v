@@ -1,0 +1,4 @@
+id,title,description,status,priority,source,tags
+T-001,Onboard new customer AcmeCorp to portal,Provision accounts, send welcome kit, schedule kickoff call.,open,high,data/tickets.csv,"onboarding,customer"
+T-002,Investigate login failures after last deploy,Auth service returning 5xx for ~8% of sessions. Check recent changes.,in_progress,critical,data/tickets.csv,"bug,auth,p0"
+T-003,Update Q2 roadmap slide deck,Incorporate new OKRs and competitive notes from last sync.,open,medium,notes/roadmap.md,"docs,planning"
