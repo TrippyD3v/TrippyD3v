@@ -69,9 +69,11 @@ mode: learning
 
 ## How to Run
 
+**Active development location:** inside your local clone of the TrippyD3v monorepo (this is the folder you push from).
+
 ```bash
-# After cloning the workspace
-cd TrippyD3v/projects/grok-work
+# cd into your clone (the directory may be named TrippyD3v, TrippyD3v-workspace, etc.)
+cd projects/grok-work
 
 # Basic curated tickets + correlation
 python grok_work.py
@@ -83,7 +85,7 @@ python grok_work.py --scan
 python -m cli.main --scan
 ```
 
-(If using the old standalone checkout, adjust the cd path accordingly.)
+All changes here are committed and pushed as part of the main TrippyD3v/TrippyD3v repo.
 
 ---
 
