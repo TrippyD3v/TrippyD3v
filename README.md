@@ -3,6 +3,9 @@ this github is my workspace.
 nothing is polished. 🧪
 scripts, experiments, notes, and broken things live here.
 
+Recommended local clone: `git clone https://github.com/TrippyD3v/TrippyD3v.git TrippyD3v`
+so your paths are clean: `~/TrippyD3v/projects/grok-work` (matches the layout on GitHub).
+
 ## Projects (organized as folders)
 
 - **grok-work/** — TicketOps / knowledge work signal reducer. Grok-primary CLI. Full source now lives directly in this repo at `projects/grok-work/` (previously standalone at grok-work-project; that repo holds the pre-merge history).

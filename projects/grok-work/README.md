@@ -72,7 +72,8 @@ mode: learning
 **Active development location:** inside your local clone of the TrippyD3v monorepo (this is the folder you push from).
 
 ```bash
-# cd into your clone (the directory may be named TrippyD3v, TrippyD3v-workspace, etc.)
+# Recommended: clone the monorepo locally as ~/TrippyD3v
+# cd /home/ghostnode/TrippyD3v/projects/grok-work
 cd projects/grok-work
 
 # Basic curated tickets + correlation
